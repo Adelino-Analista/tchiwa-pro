@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1774016225696,
+      "tag": "0000_yellow_nuke",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1774016412680,
+      "tag": "0001_happy_madame_hydra",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1774148512509,
+      "tag": "0002_serious_kate_bishop",
+      "breakpoints": true
+    }
+  ]
+}
